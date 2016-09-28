@@ -1,3 +1,3 @@
 # KudosBlogTemplate
 
-Template for KudosData
+Template for KudosData.com
